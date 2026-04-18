@@ -1,0 +1,29 @@
+* {
+  font-family: Arial;
+  color: white;
+  }
+
+body {
+  background-color: hsl(264, 100%, 8.9%);
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  color: white;
+  }
+
+#contents_title {
+  font-size: 60px;
+  color: white;
+  text-align: center;
+  padding: 80px, 80px;
+  margin: 80px, 60px;
+  }
+
+.contents {
+  font-size: 20px;
+  color: white;
+  padding: 40px;
+  border: 2px solid white;
+  margin: 40px;
+  }
